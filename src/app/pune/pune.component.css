@@ -1,0 +1,19 @@
+.card-header{
+    font-size: 30px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.head{
+    background-color: lightgreen;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    padding: 20px;
+    
+
+}
+.card-header ul li{
+    font-weight: bold;
+}
