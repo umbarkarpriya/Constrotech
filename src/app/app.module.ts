@@ -10,6 +10,8 @@ import { PuneComponent } from './pune/pune.component';
 import { MumbaiComponent } from './mumbai/mumbai.component';
 import { ContactComponent } from './contact/contact.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import {CarouselModule} from 'primeng/carousel';
+//import * as $ from 'jquery';
 
 //import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 @NgModule({
