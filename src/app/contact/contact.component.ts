@@ -1,6 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-
-
 import { FormsModule, FormGroup, FormControl, Validators, ReactiveFormsModule, FormBuilder } from '@angular/forms';
 import { DataService } from '../Services/data.service';
 @Component({
